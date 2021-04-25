@@ -1,6 +1,6 @@
 # Deep Learning (Files related to Deep Learning)
 <pre>
-## 1) Digit Recognition (CNN_Digit_recognition.ipynb)
+<b>1) Digit Recognition (CNN_Digit_recognition.ipynb)</b>
       Dataset: MNIST
       Model: LeNet
 ## 2) Digit Recognition using transfer learning (Transfer_Learning.ipynb)
